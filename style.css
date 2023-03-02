@@ -9,7 +9,7 @@ img{
     width: 150px;
     height: 150px;
     margin: 15px;
-    border-radius: 20%;
+    border-radius: 50%;
 }
 .card{
     width: 310px;
@@ -28,13 +28,14 @@ img{
     height: 15px;
     width: 15px;
     margin: 5px 0 5px 2px;
+    border-radius: 0;
 }
 .description{
     padding: 5px;
     margin: 10px;
     width: 250px;
     border: 3px dotted #DD2A73;
-
+    border-radius: 20px;
 }
 .rate{
     display: flex;
@@ -48,4 +49,5 @@ img{
     height: 30px;
     right: 60px;
     top: 140px;
+    border-radius: 0;
 }
