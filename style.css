@@ -31,6 +31,10 @@ img{
     border-radius: 0;
 }
 .description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
     padding: 5px;
     margin: 10px;
     width: 250px;
